@@ -16,3 +16,6 @@ It's important to give proper credit. Add links to any repo that inspired you or
 
 ### Time of the day
 It's tuesday today
+
+### Computer OS
+It's Windows 10
