@@ -5,7 +5,7 @@ created September 2019
 Bikeshare project
 
 ### Description
-Describe what your project is about and what it does
+This project is about bikeshare data.
 
 ### Files used
 Include the files used
